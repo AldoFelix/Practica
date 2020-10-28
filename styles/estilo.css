@@ -1,0 +1,59 @@
+h1{
+       text-align: center;
+       text-decoration: wave;
+       border-style: solid;
+       border-color: blue;
+       border-width: 20px;
+       background-color: black;
+       color: white;
+}
+
+#contenedorA01{
+    background-color:  #000055;
+    border-color: white;
+    color: white;
+}
+
+#contenedorA00{
+    background-color:  black;
+}
+.cajaDescripcion{
+    background-color: brown;
+    align-content: center;
+    text-align: center;
+    width: 25%;
+
+}
+
+.separador{
+    background-color: black;
+}
+
+li{
+
+	list-style: none;
+}
+
+.btn{
+     width:15%;
+     height: 50px;
+}
+
+div.cajaItem img.imagen{
+    float: left;
+    margin-right: 15px;
+}
+
+#lateral{
+ border-style: solid;
+border-color:#00FF00;
+float: left;
+margin:10px;
+padding: 20px;
+ background-color: black;     
+
+}
+
+ #lista{
+     background-color: black;
+ }
